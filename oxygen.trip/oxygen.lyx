@@ -3,9 +3,6 @@
 \begin_document
 \begin_header
 \textclass article
-\begin_preamble
-\setcounter{secnumdepth}{0}
-\end_preamble
 \use_default_options true
 \maintain_unincluded_children false
 \language english
@@ -28,7 +25,6 @@
 \bibtex_command default
 \index_command default
 \paperfontsize default
-\spacing single
 \use_hyperref false
 \papersize default
 \use_geometry false
@@ -72,81 +68,24 @@
 
 \begin_body
 
-\begin_layout Standard
-\begin_inset CommandInset toc
-LatexCommand tableofcontents
-
-\end_inset
-
-
+\begin_layout Section
+***
 \end_layout
 
-\begin_layout Standard
-\begin_inset Newpage pagebreak
+\begin_layout Verse
+Ты же знаешь, что жизнь --- кислородный трип, 
+\begin_inset Newline newline
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand input
-filename "oxygen.trip/oxygen.lyx"
-
+И новые люди придут на выдохе, 
+\begin_inset Newline newline
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage pagebreak
+Твой нелепый бог живет у тебя внутри --- 
+\begin_inset Newline newline
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand input
-filename "chestno/chestno.lyx"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage pagebreak
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand input
-filename "prosti/prosti.lyx"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage pagebreak
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand input
-filename "velesovo/velesovo.lyx"
-
-\end_inset
-
-
+Ищет выхода.
 \end_layout
 
 \end_body
