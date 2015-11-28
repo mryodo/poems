@@ -108,6 +108,23 @@ filename "oxygen.trip/oxygen.lyx"
 \begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand input
+filename "last.bow/last.bow.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand input
 filename "chestno/chestno.lyx"
 
 \end_inset
@@ -177,6 +194,23 @@ filename "vypusti/vypusti.lyx"
 \begin_inset CommandInset include
 LatexCommand input
 filename "b/b.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand input
+filename "no.difference/no.difference.lyx"
 
 \end_inset
 
