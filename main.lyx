@@ -217,5 +217,22 @@ filename "no.difference/no.difference.lyx"
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand input
+filename "pulemet/pulemet.lyx"
+
+\end_inset
+
+
+\end_layout
+
 \end_body
 \end_document
