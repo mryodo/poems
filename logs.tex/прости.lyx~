@@ -1,0 +1,204 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Verse
+прости,
+\begin_inset Newline newline
+\end_inset
+
+но мы опять не попадаем в формат,
+\begin_inset Newline newline
+\end_inset
+
+мы из сомкнутых линий рук делаем земной шар ---
+\begin_inset Newline newline
+\end_inset
+
+прошлое лезет за душу и в карман:
+\begin_inset Newline newline
+\end_inset
+
+в кармане мелочью три гроша,
+\begin_inset Newline newline
+\end_inset
+
+прошлое держит голову, ест с ножа.
+\end_layout
+
+\begin_layout Verse
+прости,
+\begin_inset Newline newline
+\end_inset
+
+но мы опять не попадаем в такт и ритм,
+\begin_inset Newline newline
+\end_inset
+
+нашим детям уже давно набила оскол
+\begin_inset Newline newline
+\end_inset
+
+вся твоя сотня широко трактуемых рифм,
+\begin_inset Newline newline
+\end_inset
+
+выложенных на стол.
+\begin_inset Newline newline
+\end_inset
+
+ты же знал --- в итоге их будет всего лишь сто.
+\end_layout
+
+\begin_layout Verse
+прости,
+\begin_inset Newline newline
+\end_inset
+
+ты же знал, нам не выдадут новый шанс,
+\begin_inset Newline newline
+\end_inset
+
+и наш выбор замрет на выборе новых зим,
+\begin_inset Newline newline
+\end_inset
+
+если не можешь придумать выход --- решай,
+\begin_inset Newline newline
+\end_inset
+
+назад или вниз, а то из окна сквозит.
+\begin_inset Newline newline
+\end_inset
+
+так нерешимость пешки не выводит ее в ферзи.
+\end_layout
+
+\begin_layout Verse
+прости,
+\begin_inset Newline newline
+\end_inset
+
+мы опять не попадаем в центр или края,
+\begin_inset Newline newline
+\end_inset
+
+мы из смятой постели делаем новый слог:
+\begin_inset Newline newline
+\end_inset
+
+в новый слог не сложится избитый хорей и ямб,
+\begin_inset Newline newline
+\end_inset
+
+а ты бы мог промолчать, но ты уже сбился с ног ---
+\begin_inset Newline newline
+\end_inset
+
+восемь дней ты учил себя и её сиять,
+\begin_inset Newline newline
+\end_inset
+
+ты --- не смог.
+\end_layout
+
+\begin_layout Verse
+прости,
+\begin_inset Newline newline
+\end_inset
+
+мы опять не попадаем глаза в глаза.
+\begin_inset Newline newline
+\end_inset
+
+а мы мел на асфальте.
+\begin_inset Newline newline
+\end_inset
+
+завтра нас всех сотрут,
+\begin_inset Newline newline
+\end_inset
+
+под подошвами ног рождается новый азарт,
+\begin_inset Newline newline
+\end_inset
+
+а ты умер,
+\begin_inset Newline newline
+\end_inset
+
+не выдумав, что сказать.
+\end_layout
+
+\begin_layout Verse
+знаешь, мы вспомним тебя к утру.
+\end_layout
+
+\end_body
+\end_document

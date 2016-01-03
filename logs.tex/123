@@ -1,0 +1,55 @@
+def not_odd():
+	i=0
+	while 1:
+		yield 2*i
+		i=i+1
+
+def odd():
+	i=0
+	fl=0
+	while 1:
+		if fl==0:
+			yield 2*i+1
+			fl=1
+		else:
+			yield -2*i-1
+			fl=0
+			i=i+1
+
+def thrise():
+	i=1
+	while 1:
+		yield 3*i
+		i=i+1
+
+def equation():
+	i=1;
+	while 1:
+		if i % 3==0:
+			yield 2*i
+		i=i+1
+
+import math
+
+def palindrom():
+    n = 1
+    while 1:
+        l = (n + 1) / 2
+        for i in range(10 ** l):
+            word = []
+            dop=str(i)
+            pos=len(dop)
+            for k in range(l - pos):
+                word.append('0')
+            for k in range(pos):
+                word.append(dop[k])
+            k = l
+            while k<n:
+                word.append(word[n - 1 - k])
+                k+=1
+            yield word
+        n = n + 1
+        
+def null():
+	while 0:
+		yield 0	
