@@ -261,7 +261,7 @@ filename "icons/burned.icons.lyx"
 \begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand input
-filename "first.show/first.snow.lyx"
+filename "icons/burned.icons.lyx"
 
 \end_inset
 
