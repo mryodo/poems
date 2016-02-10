@@ -3,9 +3,6 @@
 \begin_document
 \begin_header
 \textclass article
-\begin_preamble
-\setcounter{secnumdepth}{0}
-\end_preamble
 \use_default_options true
 \maintain_unincluded_children false
 \language english
@@ -72,17 +69,19 @@
 
 \begin_body
 
-\begin_layout Standard
-\begin_inset CommandInset toc
-LatexCommand tableofcontents
+\begin_layout Title
+#РЦЫ
+\end_layout
 
-\end_inset
-
-
+\begin_layout Author
+АС
 \end_layout
 
 \begin_layout Standard
-\begin_inset Newpage pagebreak
+\begin_inset CommandInset include
+LatexCommand input
+filename "/home/mryodo/Google Drive/Poems/poetry.collection/christmas.sells/christmas.lyx"
+
 \end_inset
 
 
@@ -91,15 +90,8 @@ LatexCommand tableofcontents
 \begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand input
-filename "oxygen.trip/oxygen.lyx"
+filename "/home/mryodo/Google Drive/Poems/poetry.collection/icons/burned.icons.lyx"
 
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage pagebreak
 \end_inset
 
 
@@ -108,15 +100,8 @@ filename "oxygen.trip/oxygen.lyx"
 \begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand input
-filename "last.bow/last.bow.lyx"
+filename "/home/mryodo/Google Drive/Poems/poetry.collection/first.show/first.snow.lyx"
 
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage pagebreak
 \end_inset
 
 
@@ -125,15 +110,8 @@ filename "last.bow/last.bow.lyx"
 \begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand input
-filename "chestno/chestno.lyx"
+filename "/home/mryodo/Google Drive/Poems/poetry.collection/no.difference/no.difference.lyx"
 
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage pagebreak
 \end_inset
 
 
@@ -142,15 +120,8 @@ filename "chestno/chestno.lyx"
 \begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand input
-filename "prosti/prosti.lyx"
+filename "/home/mryodo/Google Drive/Poems/poetry.collection/captains/captains.lyx"
 
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage pagebreak
 \end_inset
 
 
@@ -159,7 +130,7 @@ filename "prosti/prosti.lyx"
 \begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand input
-filename "velesovo/velesovo.lyx"
+filename "/home/mryodo/Google Drive/Poems/poetry.collection/good/good.lyx"
 
 \end_inset
 
@@ -167,121 +138,6 @@ filename "velesovo/velesovo.lyx"
 \end_layout
 
 \begin_layout Standard
-\begin_inset Newpage pagebreak
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand input
-filename "vypusti/vypusti.lyx"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage pagebreak
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand input
-filename "b/b.lyx"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage pagebreak
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand input
-filename "no.difference/no.difference.lyx"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage pagebreak
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand input
-filename "pulemet/pulemet.lyx"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage pagebreak
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand input
-filename "icons/burned.icons.lyx"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage pagebreak
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand input
-filename "icons/burned.icons.lyx"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage pagebreak
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand input
-filename "captains/captains.lyx"
-
-\end_inset
-
 
 \end_layout
 
