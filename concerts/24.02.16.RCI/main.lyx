@@ -25,9 +25,8 @@
 \bibtex_command default
 \index_command default
 \paperfontsize default
-\spacing single
 \use_hyperref false
-\papersize b5paper
+\papersize default
 \use_geometry false
 \use_package amsmath 1
 \use_package amssymb 1
@@ -78,9 +77,15 @@
 \end_layout
 
 \begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand input
-filename "/home/mryodo/Google Drive/Poems/poetry.collection/christmas.sells/christmas.lyx"
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{3}
+\end_layout
 
 \end_inset
 
@@ -90,7 +95,7 @@ filename "/home/mryodo/Google Drive/Poems/poetry.collection/christmas.sells/chri
 \begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand input
-filename "/home/mryodo/Google Drive/Poems/poetry.collection/icons/burned.icons.lyx"
+filename "../../pulemet/pulemet.lyx"
 
 \end_inset
 
@@ -100,7 +105,7 @@ filename "/home/mryodo/Google Drive/Poems/poetry.collection/icons/burned.icons.l
 \begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand input
-filename "/home/mryodo/Google Drive/Poems/poetry.collection/first.show/first.snow.lyx"
+filename "../../vypusti/vypusti.lyx"
 
 \end_inset
 
@@ -110,7 +115,7 @@ filename "/home/mryodo/Google Drive/Poems/poetry.collection/first.show/first.sno
 \begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand input
-filename "/home/mryodo/Google Drive/Poems/poetry.collection/no.difference/no.difference.lyx"
+filename "../../good/good.lyx"
 
 \end_inset
 
@@ -120,7 +125,7 @@ filename "/home/mryodo/Google Drive/Poems/poetry.collection/no.difference/no.dif
 \begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand input
-filename "/home/mryodo/Google Drive/Poems/poetry.collection/captains/captains.lyx"
+filename "../../first.show/first.snow.lyx"
 
 \end_inset
 
@@ -130,7 +135,7 @@ filename "/home/mryodo/Google Drive/Poems/poetry.collection/captains/captains.ly
 \begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand input
-filename "/home/mryodo/Google Drive/Poems/poetry.collection/good/good.lyx"
+filename "../../captains/captains.lyx"
 
 \end_inset
 
@@ -138,6 +143,18 @@ filename "/home/mryodo/Google Drive/Poems/poetry.collection/good/good.lyx"
 \end_layout
 
 \begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
 
 \end_layout
 
