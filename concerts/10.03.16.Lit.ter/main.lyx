@@ -76,14 +76,6 @@
 
 \begin_body
 
-\begin_layout Title
-#РЦЫ
-\end_layout
-
-\begin_layout Author
-АС
-\end_layout
-
 \begin_layout Standard
 \begin_inset ERT
 status open
@@ -113,7 +105,7 @@ filename "../../pulemet/pulemet.lyx"
 \begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand input
-filename "../../vypusti/vypusti.lyx"
+filename "/home/mryodo/Google Drive/Poems/poetry.collection/elli/elli.lyx"
 
 \end_inset
 
@@ -123,7 +115,7 @@ filename "../../vypusti/vypusti.lyx"
 \begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand input
-filename "../../good/good.lyx"
+filename "/home/mryodo/Google Drive/Poems/poetry.collection/assol/assol.lyx"
 
 \end_inset
 
@@ -133,7 +125,7 @@ filename "../../good/good.lyx"
 \begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand input
-filename "../../first.show/first.snow.lyx"
+filename "/home/mryodo/Google Drive/Poems/poetry.collection/ariadna/ariadna.lyx"
 
 \end_inset
 
@@ -144,16 +136,6 @@ filename "../../first.show/first.snow.lyx"
 \begin_inset CommandInset include
 LatexCommand input
 filename "../../captains/captains.lyx"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand input
-filename "/home/mryodo/Google Drive/Poems/poetry.collection/prosti/prosti.lyx"
 
 \end_inset
 

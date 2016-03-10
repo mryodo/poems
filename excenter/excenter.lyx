@@ -3,9 +3,6 @@
 \begin_document
 \begin_header
 \textclass article
-\begin_preamble
-\usepackage{multicol}
-\end_preamble
 \use_default_options true
 \maintain_unincluded_children false
 \language english
@@ -28,10 +25,9 @@
 \bibtex_command default
 \index_command default
 \paperfontsize default
-\spacing single
 \use_hyperref false
 \papersize default
-\use_geometry true
+\use_geometry false
 \use_package amsmath 1
 \use_package amssymb 1
 \use_package cancel 1
@@ -47,7 +43,7 @@
 \biblio_style plain
 \use_bibtopic false
 \use_indices false
-\paperorientation landscape
+\paperorientation portrait
 \suppress_date false
 \justification true
 \use_refstyle 1
@@ -55,10 +51,6 @@
 \shortcut idx
 \color #008000
 \end_index
-\leftmargin 2cm
-\topmargin 2cm
-\rightmargin 2cm
-\bottommargin 2cm
 \secnumdepth 3
 \tocdepth 3
 \paragraph_separation indent
@@ -76,104 +68,87 @@
 
 \begin_body
 
-\begin_layout Title
-#РЦЫ
+\begin_layout Section
+*** (эксцентрики, входное)
 \end_layout
 
-\begin_layout Author
-АС
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{3}
-\end_layout
-
+\begin_layout Verse
+Эксцентрики, 
+\begin_inset Newline newline
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand input
-filename "../../pulemet/pulemet.lyx"
-
+влазьте на сцену! 
+\begin_inset Newline newline
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand input
-filename "../../vypusti/vypusti.lyx"
-
+Романтики! 
+\begin_inset Newline newline
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand input
-filename "../../good/good.lyx"
-
+Прочая скучность и мерзость! 
+\begin_inset Newline newline
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand input
-filename "../../first.show/first.snow.lyx"
-
+Хотите стихов? Вот вам они --- 
+\begin_inset Newline newline
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand input
-filename "../../captains/captains.lyx"
-
+На стенах 
+\begin_inset Newline newline
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand input
-filename "/home/mryodo/Google Drive/Poems/poetry.collection/prosti/prosti.lyx"
-
+Невыкрашенных подъездов.
+ 
+\begin_inset Newline newline
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
+Устали от вечномодного? 
+\begin_inset Newline newline
 \end_inset
 
+О чем вы там еще грезили? 
+\begin_inset Newline newline
+\end_inset
 
+Выйди из комнаты, 
+\begin_inset Newline newline
+\end_inset
+
+Зайди в подворотню --- 
+\begin_inset Newline newline
+\end_inset
+
+Вот она! --- 
+\begin_inset Newline newline
+\end_inset
+
+Нефильтрованная поэзия.
+ 
+\begin_inset Newline newline
+\end_inset
+
+Хотите, чтоб честь по чести? 
+\begin_inset Newline newline
+\end_inset
+
+Здесь немир вашему дому, 
+\begin_inset Newline newline
+\end_inset
+
+Когда стихи не за 
+\begin_inset Newline newline
+\end_inset
+
+и не против шерсти, 
+\begin_inset Newline newline
+\end_inset
+
+а как-то уж 
+\begin_inset Newline newline
+\end_inset
+
+исключительно по-другому.
+ 
 \end_layout
 
 \end_body
