@@ -55,9 +55,9 @@
 \shortcut idx
 \color #008000
 \end_index
-\leftmargin 2cm
-\topmargin 2cm
-\rightmargin 2cm
+\leftmargin 1cm
+\topmargin 1cm
+\rightmargin 1cm
 \bottommargin 2cm
 \secnumdepth 3
 \tocdepth 3
@@ -75,6 +75,14 @@
 \end_header
 
 \begin_body
+
+\begin_layout Title
+Лит.тера
+\end_layout
+
+\begin_layout Author
+АС
+\end_layout
 
 \begin_layout Standard
 \begin_inset ERT
