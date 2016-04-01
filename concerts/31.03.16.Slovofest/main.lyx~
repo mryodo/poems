@@ -3,6 +3,9 @@
 \begin_document
 \begin_header
 \textclass article
+\begin_preamble
+\usepackage{multicol}
+\end_preamble
 \use_default_options true
 \maintain_unincluded_children false
 \language english
@@ -25,9 +28,10 @@
 \bibtex_command default
 \index_command default
 \paperfontsize default
+\spacing single
 \use_hyperref false
 \papersize default
-\use_geometry false
+\use_geometry true
 \use_package amsmath 1
 \use_package amssymb 1
 \use_package cancel 1
@@ -43,7 +47,7 @@
 \biblio_style plain
 \use_bibtopic false
 \use_indices false
-\paperorientation portrait
+\paperorientation landscape
 \suppress_date false
 \justification true
 \use_refstyle 1
@@ -51,6 +55,10 @@
 \shortcut idx
 \color #008000
 \end_index
+\leftmargin 2cm
+\topmargin 2cm
+\rightmargin 2cm
+\bottommargin 2cm
 \secnumdepth 3
 \tocdepth 3
 \paragraph_separation indent
@@ -68,81 +76,81 @@
 
 \begin_body
 
-\begin_layout Verse
-наш лозунг беспомощен:
-\begin_inset Newline newline
-\end_inset
-
-
-\begin_inset Quotes eld
-\end_inset
-
-ты
-\begin_inset Newline newline
-\end_inset
-
-меня
-\begin_inset Newline newline
-\end_inset
-
-помнишь?!
-\begin_inset Quotes erd
-\end_inset
-
-
-\begin_inset Newline newline
-\end_inset
-
-пока время учит кричать,
-\begin_inset Newline newline
-\end_inset
-
-но навзрыд,
-\begin_inset Newline newline
-\end_inset
-
-я сам себе выдумал этих чудовищ ---
-\begin_inset Newline newline
-\end_inset
-
-чудовища были ко мне добры
-\begin_inset Newline newline
-\end_inset
-
-идут дегустации ампулы с ядом,
-\begin_inset Newline newline
-\end_inset
-
-не стоящей, кажется,
-\begin_inset Newline newline
-\end_inset
-
-собственных денег
-\begin_inset Newline newline
-\end_inset
-
-под твоим
-\begin_inset Newline newline
-\end_inset
-
-(нечеловеческим)
-\begin_inset Newline newline
-\end_inset
-
-взглядом
-\begin_inset Newline newline
-\end_inset
-
-в круг замыкается горизонт постели
+\begin_layout Title
+#РЦЫ
 \end_layout
 
-\begin_layout Verse
-финальная битва добра с безголовьем
-\begin_inset Newline newline
+\begin_layout Author
+АС
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{3}
+\end_layout
+
 \end_inset
 
-идет по клеенчатым скатертям кухонь
-\begin_inset Newline newline
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand input
+filename "/home/mryodo/Google Drive/Poems/poetry.collection/skazhi/skazhi.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand input
+filename "/home/mryodo/Google Drive/Poems/poetry.collection/nebylo/nebylo.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand input
+filename "/home/mryodo/Google Drive/Poems/poetry.collection/b/b.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand input
+filename "/home/mryodo/Google Drive/Poems/poetry.collection/chestno/chestno.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols
+\end_layout
+
 \end_inset
 
 
